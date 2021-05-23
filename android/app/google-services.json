@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848737370515",
+    "project_id": "agrinet-b6271",
+    "storage_bucket": "agrinet-b6271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848737370515:android:bc157c2248bc87e91be866",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848737370515-0mdqmilkmd09i9hjdk5mobnkustfdlmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvYaJMXaXhTmXZnSvcV8E1fhoXJoRi1UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848737370515-0mdqmilkmd09i9hjdk5mobnkustfdlmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

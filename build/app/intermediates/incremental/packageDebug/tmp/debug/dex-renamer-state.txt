@@ -1,0 +1,4 @@
+#Sun May 23 15:25:28 WAT 2021
+base.0=/home/bagwai/Desktop/FLutter_Cook_Book/agrinet/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
