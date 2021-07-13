@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">848737370515-0mdqmilkmd09i9hjdk5mobnkustfdlmn.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">848737370515</string>
+    <string name="google_api_key" translatable="false">AIzaSyDvYaJMXaXhTmXZnSvcV8E1fhoXJoRi1UQ</string>
+    <string name="google_app_id" translatable="false">1:848737370515:android:bc157c2248bc87e91be866</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDvYaJMXaXhTmXZnSvcV8E1fhoXJoRi1UQ</string>
+    <string name="google_storage_bucket" translatable="false">agrinet-b6271.appspot.com</string>
+    <string name="project_id" translatable="false">agrinet-b6271</string>
+</resources>
