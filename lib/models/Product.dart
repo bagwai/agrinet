@@ -27,10 +27,10 @@ List<Product> demoProducts = [
   Product(
     id: 1,
     images: [
-      "assets/images/ps4_console_white_1.png",
-      "assets/images/ps4_console_white_2.png",
-      "assets/images/ps4_console_white_3.png",
-      "assets/images/ps4_console_white_4.png",
+      "assets/images/demoProduct1.jpg",
+      "assets/images/demoProduct1.jpg",
+      "assets/images/demoProduct1.jpg",
+      "assets/images/demoProduct1.jpg",
     ],
     colors: [
       Color(0xFFF6625E),
@@ -38,8 +38,8 @@ List<Product> demoProducts = [
       Color(0xFFDECB9C),
       Colors.white,
     ],
-    title: "Wireless Controller for PS4™",
-    price: 64.99,
+    title: "Fresh Tilapia Fish",
+    price: 6.99,
     description: description,
     rating: 4.8,
     isFavourite: true,
@@ -48,7 +48,7 @@ List<Product> demoProducts = [
   Product(
     id: 2,
     images: [
-      "assets/images/Image Popular Product 2.png",
+      "assets/images/demoProduct2.jpg",
     ],
     colors: [
       Color(0xFFF6625E),
@@ -56,7 +56,7 @@ List<Product> demoProducts = [
       Color(0xFFDECB9C),
       Colors.white,
     ],
-    title: "Nike Sport White - Man Pant",
+    title: "Cheery pepper",
     price: 50.5,
     description: description,
     rating: 4.1,
@@ -65,7 +65,7 @@ List<Product> demoProducts = [
   Product(
     id: 3,
     images: [
-      "assets/images/glap.png",
+      "assets/images/demoProduct3.jpg",
     ],
     colors: [
       Color(0xFFF6625E),
@@ -73,7 +73,7 @@ List<Product> demoProducts = [
       Color(0xFFDECB9C),
       Colors.white,
     ],
-    title: "Gloves XC Omega - Polygon",
+    title: "Fresh Milk",
     price: 36.55,
     description: description,
     rating: 4.1,
@@ -83,7 +83,7 @@ List<Product> demoProducts = [
   Product(
     id: 4,
     images: [
-      "assets/images/wireless headset.png",
+      "assets/images/demoProduct4.jpg",
     ],
     colors: [
       Color(0xFFF6625E),
@@ -91,7 +91,7 @@ List<Product> demoProducts = [
       Color(0xFFDECB9C),
       Colors.white,
     ],
-    title: "Logitech Head",
+    title: "Fresh Red Meat",
     price: 20.20,
     description: description,
     rating: 4.1,
@@ -100,4 +100,4 @@ List<Product> demoProducts = [
 ];
 
 const String description =
-    "Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing …";
+    "Fresh fish from Bagwai Dam, home delivery available";
